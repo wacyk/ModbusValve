@@ -1,0 +1,3 @@
+Record=TopLevelDocument|FileName=MCU_RS485.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=MCU_RS485.SchDoc|FileName=Signal.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=MCU_RS485.SchDoc|FileName=Supply.SchDoc|SheetNumber=1
